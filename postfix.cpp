@@ -7,18 +7,18 @@ using namespace std;
 //intro
 void Postfix::intro()
 {
-    cout << "             " << endl;
-    cout << "POSTFIX++ APP" << endl;
-    cout << "            " << endl;
+    cout << "==================================================================================" << endl;
+    cout << "" << endl;
+    cout << "RPN Calculator & Symbol Table Manager" << endl;
+    cout << "" << endl;
     cout << "Instructions:" << endl;
-    cout << "Type an arithmetic expression in which the operators follow the operands" << endl;
-    cout << "Eg. 44+ should compute 4 + 4 \nIt only computes addition, subtraction, multiplication, and division" << endl;
-    cout << "You can also type a variable name with a capital letter A-Z" << endl;
-    cout << "Have fun! :)" << endl;
-    cout << "            " << endl;
-    cout << "Developed by Daniel Bulla" << endl;
-    cout << "BSc Computer Science\nADS2 CM2035-01\nUniversity of London" << endl;
-    cout << "================================================" << endl;
+    cout << "" << endl;
+    cout << "Please read the section 'How to use it?' in README.md in the repository. Enjoy!" << endl;
+    cout << "" << endl;
+    cout << "Developed by Daniel Bulla (C)" << endl;
+    cout << "" << endl;
+    cout << "==================================================================================" << endl;
+    cout << "" << endl;
 }
 
 // read and process input
