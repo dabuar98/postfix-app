@@ -1,14 +1,16 @@
-# Reverse Polish Notation (RPN) Calculator
+# PostfixMaster
 
-This RPN Calculator & Symbol Table Manager is a versatile command-line tool designed to effortlessly compute postfix expressions and manage variables in a symbol table. Whether you're crunching numbers or manipulating variables, this application has you covered.
+PostfixMaster is an interactive command-line tool designed to effortlessly compute postfix expressions, also known as Reverse Polish Notation (RPN). PostfixMaster allows users to input mathematical expressions in postfix notation, distinguishing between numbers, operators (+, -, *, /), and potential variable names.
 
-With support for addition, subtraction, multiplication, and division operators, simply input your postfix expression, and let the calculator swiftly evaluate the result.
+Equipped with the ability to handle addition, subtraction, multiplication, and division operations, PostfixMaster ensures precise computation every time. Its intuitive interface leverages stacks as the primary data structure for efficient storage and retrieval of data, guaranteeing swift performance.
 
-Need to store variables for later use? Our built-in symbol table functionality allows you to save key-value pairs, modify existing entries, and retrieve values whenever needed.
+Need to store variables for later use? PostfixMaster's built-in symbol table functionality allows you to save key-value pairs, modify existing entries, and retrieve values whenever needed.
+
+Whether you're a seasoned mathematician or a programming enthusiast, PostfixMaster simplifies computations with its user-friendly interface that tells the steps taken to calculate the result. Experience seamless postfix expression evaluation like never before with PostfixMaster.
 
 ## How to use it?
 
-Here's a step-by-step guide on how to use the RPN Calculator & Symbol Table Manager:
+Here's a step-by-step guide on how to use PostfixMaster:
 
 1. **Launch the Application**: Start by clicking on the executable file for the RPN calculator.
 
@@ -22,4 +24,4 @@ Here's a step-by-step guide on how to use the RPN Calculator & Symbol Table Mana
 
 6. **Exit the Application**: To exit the application, simply click on the exit button.
 
-By following these steps, you can efficiently compute postfix expressions, assign variables, and manage the symbol table using the RPN Calculator & Symbol Table Manager. Enjoy streamlined mathematical operations and organised data management!
+By following these steps, you can efficiently compute postfix expressions, assign variables, and manage the symbol table using PostfixMaster. Enjoy streamlined mathematical operations and organised data management!
