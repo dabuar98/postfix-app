@@ -7,17 +7,17 @@ using namespace std;
 //intro
 void Postfix::intro()
 {
-    cout << "==================================================================================" << endl;
+    cout << "=================================================================" << endl;
     cout << "" << endl;
-    cout << "RPN Calculator & Symbol Table Manager" << endl;
+    cout << "* PostfixMaster *" << endl;
     cout << "" << endl;
     cout << "Instructions:" << endl;
     cout << "" << endl;
-    cout << "Please read the section 'How to use it?' in README.md in the repository. Enjoy!" << endl;
+    cout << "Read the section 'How to use it?' in README.md in the repository\nand type your first expression below" << endl;
     cout << "" << endl;
     cout << "Developed by Daniel Bulla (C)" << endl;
     cout << "" << endl;
-    cout << "==================================================================================" << endl;
+    cout << "=================================================================" << endl;
     cout << "" << endl;
 }
 
